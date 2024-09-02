@@ -3,7 +3,7 @@ Capstone project in  Python for Computer Vision with OpenCV and Deep Learning UD
 
 
 EL PARMAK SAYMA 
-
-
-
 Capstone notları 
+
+-CAPPORJECT NOTLARI OLAN KISIM VERSIYON 3 İÇİN
+-YENİ EKLENEN FIX VERSİYON 4 GPT FIX
